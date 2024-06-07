@@ -11,5 +11,9 @@
     {
         "name": "onUserCreation",
         "private": false
+    },
+    {
+        "name": "authFunc",
+        "private": true
     }
 ]
