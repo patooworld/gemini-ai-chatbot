@@ -150,9 +150,6 @@ export function PromptForm({
           value={input}
           onChange={e => setInput(e.target.value)}
         />
-        <script async src="https://cse.google.com/cse.js?cx=b25bfdb1d1f084216">
-</script>
-<div class="gcse-search"></div>
         </div>
       </div>
     </form>
